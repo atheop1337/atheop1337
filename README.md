@@ -22,9 +22,9 @@ MessageBox.Show(social);
 
   <div align="center">
     
-youtube: [2501dev](https://www.youtube.com/channel/UCLJnM0Ka0pBtTSn0pi15c1g) <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="22">
+telegram: [Int3rl0per](https://t.me/Int3rl0per) <img src="https://img.freepik.com/premium-vector/telegram-vector-logo-icon-logo-lototype-social-media-icon_901408-465.jpg" width="22">
 
-discord: [Lkqas](https://discordapp.com/users/677516184064753664/) <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="23">
+discord: [Lkqas](discord://-/users/677516184064753664) <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="23">
 </div>
 
 
