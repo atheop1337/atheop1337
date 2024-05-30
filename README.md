@@ -22,8 +22,6 @@ MessageBox.Show(social);
 
   <div align="center">
     
-<img src="https://img.freepik.com/premium-vector/telegram-vector-logo-icon-logo-lototype-social-media-icon_901408-465.jpg" width="22"> telegram: Int3rl0per <img src="https://img.freepik.com/premium-vector/telegram-vector-logo-icon-logo-lototype-social-media-icon_901408-465.jpg" width="22">
-
 <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="23"> discord: lkqas <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="23">
 </div>
 
