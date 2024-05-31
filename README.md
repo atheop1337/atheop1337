@@ -13,8 +13,8 @@
 
 
 
-Console.WriteLine("Welcome ^_____^");
-MessageBox.Show(social);
+Console.WriteLine("PYTHON BLYAT!");
+MessageBox.Show(LEARN PYTHON);
 
 ```
 
