@@ -14,7 +14,7 @@
 
 
 Console.WriteLine("PYTHON BLYAT!");
-MessageBox.Show(LEARN PYTHON);
+MessageBox.Show(LEARN_PYTHON);
 
 ```
 
