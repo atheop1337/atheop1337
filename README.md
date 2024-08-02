@@ -13,8 +13,8 @@
 
 
 
-Console.WriteLine("PYTHON BLYAT!");
-MessageBox.Show(LEARN_PYTHON);
+Console.WriteLine("(●'◡'●)");
+MessageBox.Show(info);
 
 ```
 
