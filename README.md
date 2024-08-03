@@ -1,4 +1,9 @@
-<h1 align="center"><img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-atheism-logo-template_23-2149251682.jpg?t=st=1722675321~exp=1722678921~hmac=32b1011ea4d8ecacb42f10d5e135eccd1fe9c76469ff4daf5729a6258526b8cb&w=826" width="30"> Lkqas <img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-atheism-logo-template_23-2149251682.jpg?t=st=1722675321~exp=1722678921~hmac=32b1011ea4d8ecacb42f10d5e135eccd1fe9c76469ff4daf5729a6258526b8cb&w=826" width="30"></h1> 
+<h1 align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-atheism-logo-template_23-2149251682.jpg?t=st=1722675321~exp=1722678921~hmac=32b1011ea4d8ecacb42f10d5e135eccd1fe9c76469ff4daf5729a6258526b8cb&w=826" width="45">
+    <span style="margin: 0 15px;">Lkqas</span>
+    <img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-atheism-logo-template_23-2149251682.jpg?t=st=1722675321~exp=1722678921~hmac=32b1011ea4d8ecacb42f10d5e135eccd1fe9c76469ff4daf5729a6258526b8cb&w=826" width="45">
+</h1>
+
 <p align="center">
   <b><i>Welcome to my GitHub profile!</i></b>
 </p>
@@ -10,7 +15,7 @@
 ```
 > ** **
 ```python
-print("(●'◡'●)")
+print('(☞ﾟヮﾟ)☞)') ; print('☜(ﾟヮﾟ☜)')
 await show_meme()
 ```
 <p align="center">
@@ -23,8 +28,8 @@ await show_meme()
 </div>
 
 ```python
-print("ㄟ(≧◇≦)ㄏ")
-await show_stats(username=v1lmok, show_icons=True, theme=tokyonight, rank_icon=github)
+print('(*^▽^*)')
+await show_stats(username=github_name, show_icons=True, theme='tokyonight', rank_icon=github_icon)
 ```
 
   <div align="center">
