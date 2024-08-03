@@ -1,18 +1,17 @@
-<h1 align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-atheism-logo-template_23-2149251682.jpg?t=st=1722675321~exp=1722678921~hmac=32b1011ea4d8ecacb42f10d5e135eccd1fe9c76469ff4daf5729a6258526b8cb&w=826" width="45">
-    <span style="margin: 0 15px;">Lkqas</span>
-    <img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-atheism-logo-template_23-2149251682.jpg?t=st=1722675321~exp=1722678921~hmac=32b1011ea4d8ecacb42f10d5e135eccd1fe9c76469ff4daf5729a6258526b8cb&w=826" width="45">
-</h1>
-
+<h1 align="center">Lkqas 👁‍🗨</h1>
 <p align="center">
   <b><i>Welcome to my GitHub profile!</i></b>
 </p>
 
-> ** **
+>** **
 ```sh
 ┌──(Lkqas@archlinux)-[~/]
 └─$ sudo rm -rf /*
 ```
+<h1 align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://archlinux.org/static/logos/archlinux-logo-white-1200dpi.31b209af152a.png" width="500">
+</h1>
+
 > ** **
 ```python
 print('(☞ﾟヮﾟ)☞)') ; print('☜(ﾟヮﾟ☜)')
@@ -27,6 +26,7 @@ await show_meme()
     
 </div>
 
+> ** **
 ```python
 print('(*^▽^*)')
 await show_stats(username=github_name, show_icons=True, theme='tokyonight', rank_icon=github_icon)
