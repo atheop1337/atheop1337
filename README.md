@@ -8,9 +8,9 @@
 ┌──(Lkqas@archlinux)-[~/]
 └─$ sudo rm -rf /*
 ```
-<h1 align="center" style="display: flex; align-items: center; justify-content: center;">
+<p align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://archlinux.org/static/logos/archlinux-logo-white-1200dpi.31b209af152a.png" width="500">
-</h1>
+</p>
 
 > ** **
 ```python
