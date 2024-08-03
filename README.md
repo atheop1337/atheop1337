@@ -1,7 +1,7 @@
 <h1 align="center">Lkqas 👁‍🗨</h1>
-<p align="center">
-  <b><i>Welcome to my GitHub profile!</i></b>
-</p>
+<h1 align="center">
+  <b>👋👋👋</b>
+</h1>
 
 >** **
 ```sh
