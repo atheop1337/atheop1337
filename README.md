@@ -41,7 +41,7 @@ await show_stats(username=github_name, show_icons=True, theme='tokyonight', rank
 </div>
 <p align="center">
   <a href="https://github.com/fknMega/discord-tools">
-    <img src='https://github-readme-stats.vercel.app/api?username=v1lmok&show_icons=true&theme=tokyonight&rank_icon=github' width='400'>
+    <img src='https://github-readme-stats.vercel.app/api?username=atheop1337&show_icons=true&theme=tokyonight&rank_icon=github' width='400'>
   </a>
 </p>
 <p align="center">
