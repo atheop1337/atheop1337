@@ -21,7 +21,7 @@
   Russian Roulette with the System
 </h1>
 <p align="center">
-  Only two possible outcomes. 🤔
+  Only two possible outcomes 🤔
 </p>
 
 
@@ -128,4 +128,4 @@ int main() {
 ---
 <p align="center">Made with ❤️ by atheop1337</p>
 
-<p align="center">Please follow if you don't mind.</p>
+<p align="center">Please follow if you don't mind</p>
