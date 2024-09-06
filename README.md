@@ -126,6 +126,6 @@ int main() {
 </p>
 
 ---
-<p align="center">Made with ❤️ by Atheop1337</p>
+<p align="center">Made with ❤️ by atheop1337</p>
 
 <p align="center">Please follow if you don't mind.</p>
