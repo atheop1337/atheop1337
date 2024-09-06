@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/github/followers/atheop1337?label=Followers&style=social">
 </p>
 
+<div align="center">
+<h2> 🎧 𝖫𝗂𝗌𝗍𝖾𝗇𝗂𝗇𝗀 𝗍𝗈 </h2>
+</div>
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=594ocpj4favlwezhe34io7z8t&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=594ocpj4favlwezhe34io7z8t&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile">
