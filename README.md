@@ -1,8 +1,8 @@
-<h1 align="center">Atheop 👁‍🗨</h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=30&lines=atheop1337+" alt="Typing SVG" /></a></p>
 
-<h1 align="center">
-  <b>👋 Welcome! 👋</b>
-</h1>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝕕𝕖𝕧𝕤! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained-Yes-green.svg">
@@ -10,9 +10,21 @@
   <img src="https://img.shields.io/github/followers/atheop1337?label=Followers&style=social">
 </p>
 
-## Russian Roulette with the System
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=594ocpj4favlwezhe34io7z8t&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=594ocpj4favlwezhe34io7z8t&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile">
+  </a>
+</p>
 
-Only two possible outcomes. 🤔
+
+<h1 align="center" style="font-size: 2.5em;">
+  Russian Roulette with the System
+</h1>
+<p align="center">
+  Only two possible outcomes. 🤔
+</p>
+
+
 
 ```cpp
 #include <iostream>
@@ -37,18 +49,29 @@ int main() {
 }
 ```
 
-**Output (if you're lucky):**
+<p align="center">
+  <strong>Output (if you're lucky):</strong>
+</p>
+
 ```
 🎉 You survived! The system is safe... for now.
 ```
 
-**Disclaimer:** **Run at your own risk** 😈
+<p align="center">
+  <strong>Disclaimer: Run at your own risk 😈</strong>
+</p>
 
 ---
 
-## Fetching GitHub Stats
+<h1 align="center" style="font-size: 2.5em;">
+  Fetching GitHub Stats
+</h1>
 
-Want to impress others with your GitHub stats? This function fetches and displays your stats.
+<p align="center">
+  I want to flex 😎<br>
+  (I have 2 followers)
+</p>
+
 
 ```cpp
 #include "includes.h"
@@ -80,7 +103,11 @@ int main() {
 }
 
 ```
-**Output:**
+
+<p align="center">
+  <strong>Output:</strong>
+</p>
+
 ```
 [!] Fetching GitHub stats for atheop1337 with theme Profile Views...
 [!] Fetching Profile Views for atheop1337...
