@@ -132,4 +132,8 @@ int main() {
 ---
 <p align="center">Made with ❤️ by atheop1337</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JVglf7QjxaZZM2tjfB/giphy.gif" alt="Kitty">
+</p>
+
 <p align="center">Please follow if you don't mind</p>
