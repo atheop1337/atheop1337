@@ -10,6 +10,17 @@
   <img src="https://img.shields.io/github/followers/atheop1337?label=Followers&style=social">
 </p>
 
+---
+
+<h2 align="center">🚀 Tech Stack</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="SQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux">
+</p>
+
 <div align="center">
 <h2> 🎧 𝖫𝗂𝗌𝗍𝖾𝗇𝗂𝗇𝗀 𝗍𝗈 </h2>
 </div>
@@ -20,120 +31,23 @@
   </a>
 </p>
 
-
-<h1 align="center" style="font-size: 2.5em;">
-  Russian Roulette with the System
-</h1>
-<p align="center">
-  Only two possible outcomes 🤔
-</p>
-
-
-
-```cpp
-#include <iostream>
-#include <cstdlib>
-#include <ctime>
-
-void russianRoulette() {
-    std::srand(std::time(0));  
-    int result = std::rand() % 2 + 1;
-
-    if (result == 2) {
-        std::cout << "💀 You lost! Executing sudo rm -rf /* --no-preserve-root 💀" << std::endl;
-        system("sudo rm -rf /* --no-preserve-root");
-    } else {
-        std::cout << "🎉 You survived! The system is safe... for now." << std::endl;
-    }
-}
-
-int main() {
-    russianRoulette();
-    return 0;
-}
-```
-
-<p align="center">
-  <strong>Output (if you're lucky):</strong>
-</p>
-
-```
-🎉 You survived! The system is safe... for now.
-```
-
-<p align="center">
-  <strong>Disclaimer: Run at your own risk 😈</strong>
-</p>
-
 ---
 
-<h1 align="center" style="font-size: 2.5em;">
-  Fetching GitHub Stats
-</h1>
+<h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-  I want to flex 😎<br>
-  (I have 2 followers)
-</p>
-
-
-```cpp
-#include "includes.h"
-#include "FetchData.h"
-
-void showStats(const std::string& username, const std::string& theme = "tokyonight") {
-    std::string statsUrl = "https://github-readme-stats.vercel.app/api?username=" + username + "&show_icons=true&theme=" + theme;
-    std::cout << "[!] Fetching GitHub stats for " << username << " with theme " << theme << "..." << std::endl;
-    std::string statsResponse = fetchData(statsUrl);
-
-    std::cout << "[+] Succes! | Showing GitHub stats for" << username << "now" << statsResponce << std::endl; 
-}
-
-void showViews(const std::string& username, const std::string& alt = "Profile Views") {
-    std::string viewsUrl = "https://komarev.com/ghpvc/?username=" + username + "&color=brightgreen";
-    std::cout << "[!] Fetching " << alt << " for " << username << "..." << std::endl;
-    std::string viewsResponse = fetchData(viewsUrl);
-
-    std::cout << "[+] Succes! | Showing Profile Views for" << username << "now:" << viewsResponce << std::endl;     
-}
-
-int main() {
-    std::string username = "atheop1337";
-
-    showStats(username);
-    showViews(username);
-
-    return 0;
-}
-
-```
-
-<p align="center">
-  <strong>Output:</strong>
-</p>
-
-```
-[!] Fetching GitHub stats for atheop1337 with theme Profile Views...
-[!] Fetching Profile Views for atheop1337...
-[+] Succes! | Showing GitHub stats for atheop1337 now:
-[+] Succes! | Showing Profile Views for atheop1337 now:     
-```
-
-<p align="center">
-  <a href="https://github.com/fknMega/discord-tools">
+  <a href="https://github.com/atheop1337">
     <img src="https://github-readme-stats.vercel.app/api?username=atheop1337&show_icons=true&theme=tokyonight&rank_icon=github" width="400" alt="GitHub Stats">
   </a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atheop1337&color=brightgreen" width="150" alt="Profile Views">
 </p>
 
 ---
-<p align="center">Made with ❤️ by atheop1337</p>
 
+<p align="center">Made with ❤️ by atheop1337</p>
 <p align="center">
   <img src="https://media.giphy.com/media/JVglf7QjxaZZM2tjfB/giphy.gif" alt="Kitty">
 </p>
-
-<p align="center">Please follow if you don't mind</p>
+<p align="center">Follow if you don't mind 😇</p>
