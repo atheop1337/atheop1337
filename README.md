@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝕕𝕖𝕧𝕤! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
-  <p>A passionate coder exploring the world of tech and innovation.</p>
+  <p>A passionate coder with a love for technology and innovation. Let's build the future, one line of code at a time 😉</p>
 </div>
 
 <p align="center">
@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-  <h2>🎧 Now Playing on Spotify</h2>
+  <h2>🎧 Jamming to</h2>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=594ocpj4favlwezhe34io7z8t&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=594ocpj4favlwezhe34io7z8t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="300" alt="Spotify Profile">
   </a>
@@ -39,6 +39,6 @@
 
 <div align="center">
   <p>Made with ❤️ by atheop1337</p>
-  <p><img src="https://media.giphy.com/media/JVglf7QjxaZZM2tjfB/giphy.gif" width="80" alt="Kitty"></p>
+  <p><img src="https://media.giphy.com/media/JVglf7QjxaZZM2tjfB/giphy.gif" width="200" alt="Kitty"></p>
   <p>Follow if you enjoy my work 😇</p>
 </div>
