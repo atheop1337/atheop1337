@@ -7,8 +7,7 @@
 <div align="center">
   <h2>👋 Hello there, devs!</h2>
   <p>
-    🚀 Backend developer with a love for technology, problem-solving and clean architecture.<br>
-    Let's build the future - one line of code at a time 😉
+    ❤ Backend is my beloved
   </p>
 </div>
 
@@ -46,7 +45,6 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atheop1337&show_icons=true&theme=radical" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atheop1337&theme=radical" height="180" alt="GitHub Streak"/>
 </div>
 
