@@ -9,26 +9,26 @@
 <h3 align="center"><code>/usr/bin</code></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-0d0d0d?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/postgresql-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/git-0d0d0d?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/nginx-0d0d0d?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="./assets/badges/python.svg" alt="python">
+  <img src="./assets/badges/cpp.svg" alt="c++">
+  <img src="./assets/badges/linux.svg" alt="linux">
+  <img src="./assets/badges/docker.svg" alt="docker">
+  <img src="./assets/badges/postgresql.svg" alt="postgresql">
+  <img src="./assets/badges/redis.svg" alt="redis">
+  <img src="./assets/badges/git.svg" alt="git">
+  <img src="./assets/badges/nginx.svg" alt="nginx">
 </p>
 
 <h3 align="center"><code>/opt/sec</code></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/wireshark-0d0d0d?style=for-the-badge&logo=wireshark&logoColor=white">
-  <img src="https://img.shields.io/badge/nmap-0d0d0d?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/ida-0d0d0d?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/ghidra-0d0d0d?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/burp%20suite-0d0d0d?style=for-the-badge&logo=burpsuite&logoColor=white">
-  <img src="https://img.shields.io/badge/snort-0d0d0d?style=for-the-badge&logo=snort&logoColor=white">
-  <img src="https://img.shields.io/badge/virtualbox-0d0d0d?style=for-the-badge&logo=virtualbox&logoColor=white">
+  <img src="./assets/badges/wireshark.svg" alt="wireshark">
+  <img src="./assets/badges/nmap.svg" alt="nmap">
+  <img src="./assets/badges/ida.svg" alt="ida">
+  <img src="./assets/badges/ghidra.svg" alt="ghidra">
+  <img src="./assets/badges/burp-suite.svg" alt="burp suite">
+  <img src="./assets/badges/snort.svg" alt="snort">
+  <img src="./assets/badges/virtualbox.svg" alt="virtualbox">
 </p>
 
 <h3 align="center"><code>/var/log</code></h3>
@@ -40,7 +40,7 @@
 <h3 align="center"><code>/dev/tty</code></h3>
 
 <p align="center">
-  <a href="mailto:nicotinedeath@proton.me"><img src="https://img.shields.io/badge/nicotinedeath@proton.me-0d0d0d?style=for-the-badge&logo=protonmail&logoColor=white" alt="mail"></a>
+  <a href="mailto:nicotinedeath@proton.me"><img src="./assets/badges/mail.svg" alt="mail"></a>
 </p>
 
 <p align="center">
